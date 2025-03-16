@@ -233,6 +233,7 @@ cython_debug/
 # SageMath parsed files
 
 # Environments
+.env
 
 # Spyder project settings
 
